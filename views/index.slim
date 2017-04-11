@@ -1,0 +1,8 @@
+h2 Parser
+
+form action="/run" method="POST"
+  input.button type="submit" value="Run Parser >>"
+
+ul
+  - (@report || []).map do |report_line|
+    li= report_line
