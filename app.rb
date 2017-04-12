@@ -1,17 +1,22 @@
-require 'rubygems'
-require 'sinatra'
-require 'slim'
-require 'pry'
+require 'sinatra/base'
 
-require './app/csv_parser'
+class App < Sinatra::Base
+  require 'rubygems'
+  require 'sinatra'
+  require 'shotgun'
+  require 'slim'
+  require 'pry'
 
-get '/' do
-  slim :index
-end
+  require './app/csv_parser'
 
-post '/run' do
-  parser = CsvParser.new('./tmp/exports')
-  parser.run!
-  @report = parser.report
-  slim :index
+  get '/' do
+    slim :index
+  end
+
+  post '/run' do
+    parser = CsvParser.new('./tmp/exports')
+    parser.run!
+    @report = parser.report
+    slim :index
+  end
 end
