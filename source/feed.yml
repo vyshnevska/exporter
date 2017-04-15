@@ -203,7 +203,7 @@ quotes:
     the way you want to be"
   author: Reid Hoffman
   occupation: LinkedIn co-founder
-- quote: "“I don't look to jump over 7-foot bars -- I look for 1-foot bars that I
+- quote: "“I don't look to jump over 7-foot bars -  I look for 1-foot bars that I
     can step over"
   author: Warren Buffet
   occupation: Berkshire Hathaway chairman and CEO
@@ -222,9 +222,6 @@ quotes:
     better than anyone. Know your customer, and have a burning desire to succeed"
   author: " Dave Thomas"
   occupation: Wendy’s
-- quote: "“As long as you’re going to be thinking anyway, think big"
-  author: " Donald Trump"
-  occupation: The Trump Organization president
 - quote: "“Whether you think you can, or think you can’t - you’re right"
   author: " Henry Ford"
   occupation: Ford Motor Company founder
@@ -362,4 +359,100 @@ quotes:
 - quote: " “An invention that is quickly accepted will turn out to be a rather trivial
     alteration of something that has already existed"
   author: Edwin Land
-  occupation: 
+  occupation: Polaroid co-founder
+- quote: "“It’s easy to come up with ideas. It’s harder to act on them. I always say,
+    actions are more important than words, which are more important than thoughts"
+  author: " Scott Steindorff"
+  occupation: producer and movie maker
+- quote: "“Your work is going to fill a large part of your life, and the only way
+    to be truly satisfied is to do what you believe is great work. And the only way
+    to do great work is to love what you do"
+  author: " Steve Jobs"
+  occupation: chairman and CEO of Apple
+- quote: "“Chase the vision, not the money; the money will end up following you"
+  author: " Tony Hsieh"
+  occupation: CEO of Zappos
+- quote: "“Starting your own business is like riding a roller coaster. There are highs
+    and lows and every turn you take is another twist. The lows are really low, but
+    the highs can be really high. You have to be strong, keep your stomach tight,
+    and ride along with the roller coaster that you started"
+  author: " Lindsay Manseau"
+  occupation: photographer and entrepreneur
+- quote: "“As long as you're going to be thinking anyway, think big"
+  author: " Donald Trump"
+  occupation: president of the Trump Organization
+- quote: "“Bad shit is coming. It always is in a startup. The odds of getting from
+    launch to liquidity without some kind of disaster happening are one in a thousand.
+    So don't get demoralized"
+  author: " Paul Graham"
+  occupation: co-founder of Y Combinator
+- quote: "“Make every detail perfect and limit the number of details to perfect"
+  author: " Jack Dorsey"
+  occupation: co-founder of Twitter
+- quote: "“What do you need to start a business? Three simple things: know your product
+    better than anyone, know your customer, and have a burning desire to succeed"
+  author: " Dave Thomas"
+  occupation: founder of Wendy's
+- quote: "“Don't worry about failure; you only have to be right once"
+  author: " Drew Houston"
+  occupation: co-founder and CEO of Dropbox
+- quote: "“Nothing works better than just improving your product"
+  author: "  Joel Spolsky"
+  occupation: co-founder of Stack Overflow
+- quote: "“The best startups generally come from somebody needing to scratch an itch"
+  author: " Michael Arrington"
+  occupation: founder and co-editor of TechCrunch
+- quote: "“Any time is a good time to start a company"
+  author: " Ron Conway"
+  occupation: SV angel
+- quote: "“The only thing worse than starting something and failing... is not starting
+    something"
+  author: " Seth Godin"
+  occupation: blogger
+- quote: "“Ideas are commodity. Execution of them is not"
+  author: " Michael Dell"
+  occupation: chairman and CEO of Dell
+- quote: "“You don't learn to walk by following rules. You learn by doing and falling
+    over"
+  author: " Richard Branson"
+  occupation: founder of Virgin Group
+- quote: "“I made a resolve then that I was going to amount to something if I could.
+    And no hours, nor amount of labor, nor amount of money would deter me from giving
+    the best that there was in me. And I have done that ever since, and I win by it.
+    I know"
+  author: " Harland Sanders"
+  occupation: founder of KFC
+- quote: "“I knew that if I failed I wouldn't regret that, but I knew the one thing
+    I might regret is not trying"
+  author: " Jeff Bezos"
+  occupation: founder and CEO of Amazon
+- quote: "“Don't limit yourself. Many people limit themselves to what they think they
+    can do. You can go as far as your mind lets you. What you believe, remember, you
+    can achieve"
+  author: " Mary Kay Ash"
+  occupation: founder of Mary Kay Cosmetics
+- quote: "“It's easy to get caught up in the day-to-day hard work of running a business
+    and completely forget that while solving problems and building something you can
+    be proud of, you also have an incredible opportunity to shape the future. Even
+    better, you have the chance to meet amazing people and do amazing things along
+    the way. It's important not to get lost among the trees and forget about the amazing,
+    beautiful forest you're planting"
+  author: " Colin Wright"
+  occupation: co-founder of Asymmetrical Press
+- quote: "“If you're passionate about something and you work hard, then I think you
+    will be successful"
+  author: " Pierre Omidyar"
+  occupation: founder and chairman of eBay
+- quote: "“Don't be a lone wolf. Lean on the experience and smarts of your teammates,
+    investors, and mentors to help solve the tough problems and take advantage of
+    the opportunities"
+  author: "  Seth Bannon"
+  occupation: founder and CEO of Amicus
+- quote: "“You just have to pay attention to what people need and what has not been
+    done"
+  author: " Russell Simmons"
+  occupation: founder of Def Jam
+- quote: "“Don't be afraid to assert yourself, have confidence in your abilities and
+    don't let the bastards get you down"
+  author: " Michael Bloomberg"
+  occupation: founder of Bloomberg L.P.

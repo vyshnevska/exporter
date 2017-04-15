@@ -114,7 +114,7 @@
 
 “The fastest way to change yourself is to hang out with people who are already the way you want to be.” -Reid Hoffman, LinkedIn co-founder
 
-“I don't look to jump over 7-foot bars -- I look for 1-foot bars that I can step over.” -Warren Buffet, Berkshire Hathaway chairman and CEO
+“I don't look to jump over 7-foot bars -  I look for 1-foot bars that I can step over.” -Warren Buffet, Berkshire Hathaway chairman and CEO
 
 “In the end, a vision without the ability to execute it is probably a hallucination.” -Steve Case, AOL co-founder
 
@@ -123,8 +123,6 @@
 “Embrace what you don’t know, especially in the beginning, because what you don’t know can become your greatest asset. It ensures that you will absolutely be doing things different from everybody else.” - Sara Blakely,  SPANX founder
 
 “What do you need to start a business? Three simple things: know your product better than anyone. Know your customer, and have a burning desire to succeed.” - Dave Thomas, Founder, Wendy’s
-
-“As long as you’re going to be thinking anyway, think big.” - Donald Trump, The Trump Organization president
 
 “Whether you think you can, or think you can’t - you’re right.” - Henry Ford, Ford Motor Company founder
 
@@ -199,3 +197,49 @@
 “When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue.” - Josh James, Omniture CEO and co-founder
 
  “An invention that is quickly accepted will turn out to be a rather trivial alteration of something that has already existed.” -Edwin Land, Polaroid co-founder
+
+“It’s easy to come up with ideas. It’s harder to act on them. I always say, actions are more important than words, which are more important than thoughts.” - Scott Steindorff, producer and movie maker
+
+“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” - Steve Jobs, co-founder, chairman and CEO of Apple
+
+“Chase the vision, not the money; the money will end up following you.” - Tony Hsieh, CEO of Zappos
+
+“Starting your own business is like riding a roller coaster. There are highs and lows and every turn you take is another twist. The lows are really low, but the highs can be really high. You have to be strong, keep your stomach tight, and ride along with the roller coaster that you started.” - Lindsay Manseau, photographer and entrepreneur
+
+“As long as you're going to be thinking anyway, think big.” - Donald Trump, president of the Trump Organization
+
+“Bad shit is coming. It always is in a startup. The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand. So don't get demoralized.” - Paul Graham, co-founder of Y Combinator
+
+“Make every detail perfect and limit the number of details to perfect.” - Jack Dorsey, co-founder of Twitter
+
+“What do you need to start a business? Three simple things: know your product better than anyone, know your customer, and have a burning desire to succeed.” - Dave Thomas, founder of Wendy's
+
+“Don't worry about failure; you only have to be right once.” - Drew Houston, co-founder and CEO of Dropbox
+
+“Nothing works better than just improving your product.” -  Joel Spolsky, co-founder of Stack Overflow
+
+“The best startups generally come from somebody needing to scratch an itch.” - Michael Arrington, founder and co-editor of TechCrunch
+
+“Any time is a good time to start a company.” - Ron Conway, investor, SV angel
+
+“The only thing worse than starting something and failing... is not starting something.” - Seth Godin, founder of Squidoo, author, blogger
+
+“Ideas are commodity. Execution of them is not.” - Michael Dell, chairman and CEO of Dell
+
+“You don't learn to walk by following rules. You learn by doing and falling over.” - Richard Branson, founder of Virgin Group
+
+“I made a resolve then that I was going to amount to something if I could. And no hours, nor amount of labor, nor amount of money would deter me from giving the best that there was in me. And I have done that ever since, and I win by it. I know.” - Harland Sanders, founder of KFC
+
+“I knew that if I failed I wouldn't regret that, but I knew the one thing I might regret is not trying.” - Jeff Bezos, founder and CEO of Amazon
+
+“Don't limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.” - Mary Kay Ash, founder of Mary Kay Cosmetics
+
+“It's easy to get caught up in the day-to-day hard work of running a business and completely forget that while solving problems and building something you can be proud of, you also have an incredible opportunity to shape the future. Even better, you have the chance to meet amazing people and do amazing things along the way. It's important not to get lost among the trees and forget about the amazing, beautiful forest you're planting.” - Colin Wright, co-founder of Asymmetrical Press
+
+“If you're passionate about something and you work hard, then I think you will be successful.” - Pierre Omidyar, founder and chairman of eBay
+
+“Don't be a lone wolf. Lean on the experience and smarts of your teammates, investors, and mentors to help solve the tough problems and take advantage of the opportunities.” -  Seth Bannon, founder and CEO of Amicus
+
+“You just have to pay attention to what people need and what has not been done.” - Russell Simmons, founder of Def Jam
+
+“Don't be afraid to assert yourself, have confidence in your abilities and don't let the bastards get you down.” - Michael Bloomberg, founder of Bloomberg L.P.

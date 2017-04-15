@@ -29,11 +29,11 @@ class YamlBuilder
         # line ex: ["“Every time we launch a feature, people yell at us.”", " - ", "Angelo Sotira, deviantART co-founder\n"]
         attrs = line.split(/“*.”/) # line.split(/( - )/)
 
-        author_attr = attrs[1].split(/\s+-/)[1]
+        author_attr = (attrs[1].split(/\s+-/)[1] rescue raise line)
 
-        quotes_hash['quotes'] << { 'quote'      => attrs[0],
-                                   'author'     => author_attr.split(', ')[0],
-                                   'occupation' => author_attr.split(', ')[-1].gsub!("\n", "")
+        quotes_hash['quotes'] << { 'quote'      => (attrs[0] rescue raise line),
+                                   'author'     => (author_attr.split(', ')[0] rescue raise line),
+                                   'occupation' => (author_attr.split(', ')[-1].gsub!("\n", "") rescue raise line)
                                   }
       end
     end
